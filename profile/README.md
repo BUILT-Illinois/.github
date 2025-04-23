@@ -1,4 +1,4 @@
-# Welcome To B[U]ILT 👋 #
+# Welcome To B[U]ILT @ Illinois 👋 #
 <!--
 
 **Here are some ideas to get you started:**
@@ -9,8 +9,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-## Mission Statement ##
 
 B[U]ILT is a non-profit student organization at the University of Illinois at Urbana-Champaign. We strive to become a strong support system for minorities in computing-related fields that fosters scholarship, professional development, and a sense of community. We seek to improve the diversity of the workplace in computing fields by holding technical and professional events for current students, in addition to running outreach programs to encourage the next generation of students from underrepresented communities to pursue careers in computing fields.
 
